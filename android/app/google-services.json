@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201628190626",
+    "project_id": "loginpractice-33ef1",
+    "storage_bucket": "loginpractice-33ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201628190626:android:7330981858b40776b4d4fb",
+        "android_client_info": {
+          "package_name": "com.example.modern_login_ui_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktq1CGj8-3Qhu-jsghcbcPUrTV-ZVBSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
